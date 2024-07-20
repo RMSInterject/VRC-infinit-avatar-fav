@@ -2,9 +2,13 @@
 a simple app that allow you to have an infinit of favorit avatar
 
 # INSTALLATION
+
 1 make sure you have python installed on you pc > https://www.python.org/downloads/
+
 2 download both Fav.pyw and packages.install.bat
+
 3 run packages.install.bet
+
 after thos steps everything should work you can now run Fav.pyw
 
 # LOGIN INTO VRCHAT
